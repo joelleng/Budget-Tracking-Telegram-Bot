@@ -1,0 +1,6 @@
+*.env
+*.json
+app.yaml
+/venv
+*.venv
+*.yaml
